@@ -3,7 +3,7 @@ import Cutest from './Cutest';
 import Flower from './Flower';
 import Last from './Last';
 import Question from './Question';
-import Woa from './WOA';
+import Woa from './Woa';
 
 export default function Page() {
   const { page } = useParams();
